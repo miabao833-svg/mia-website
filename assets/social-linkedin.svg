@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="LinkedIn">
+  <g fill="none" stroke="#e7be67" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="12" width="56" height="56" rx="10"/>
+    <path d="M24 35v22"/>
+    <path d="M24 25h.1"/>
+    <path d="M38 57V35"/>
+    <path d="M38 44c0-6 4-10 10-10 7 0 11 5 11 13v10"/>
+  </g>
+</svg>
